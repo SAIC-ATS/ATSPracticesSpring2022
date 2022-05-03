@@ -4,7 +4,7 @@ title: ""
 position: 24
 url: ""
 content_type: student
-color: "background-color=rgb(0, 0, 0)"
+color: "rgb(0, 0, 0)"
 ---
 
 Socks Johnston

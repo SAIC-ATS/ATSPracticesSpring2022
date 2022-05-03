@@ -14,7 +14,7 @@
         "
       >
         <img
-          class="rotate-90 ml-16 -mt-16 w-11 filter hover:sepia"
+          class="rotate-90 ml-16 -mt-16 w-11 filter sepia-on-hover"
           src="tab.png"
         />
         <p
@@ -46,7 +46,7 @@
         "
       >
         <img
-          class="rotate-90 ml-14 -mt-16 w-11 filter hover:sepia"
+          class="rotate-90 ml-14 -mt-16 w-11 filter sepia-on-hover"
           src="tab.png"
         />
         <p
@@ -71,7 +71,7 @@
       @click="toggle"
     >
       <img
-        class="rotate-90 ml-4 -mt-16 filter object-cover hover:sepia"
+        class="rotate-90 ml-4 -mt-16 filter object-cover sepia-on-hover"
         src="tab.png"
       />
       <font-awesome-icon

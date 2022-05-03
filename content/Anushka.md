@@ -5,7 +5,7 @@ position: 22
 url: "https://editor.p5js.org/aganu/full/QsS1rFem5"
 img: ""
 content_type: student
-color: "background-color: rgb(255, 255, 255)"
+color: "rgb(255, 255, 255)"
 ---
 
 Anushka Ganu

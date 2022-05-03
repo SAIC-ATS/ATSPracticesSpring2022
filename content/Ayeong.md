@@ -4,7 +4,7 @@ title: ""
 position: 24
 url: ""
 content_type: student
-color: "background-color: rgb(255, 255, 255)"
+color: "rgb(255, 255, 255)"
 ---
 
 Ayeong Lim

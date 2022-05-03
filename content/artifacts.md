@@ -4,7 +4,7 @@ title: "Artifacts"
 position: 01
 url: ""
 content_type: page
-color: ""
+color: "#FFFFFF"
 ---
 
 artifacts page

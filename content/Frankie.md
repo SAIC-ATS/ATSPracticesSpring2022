@@ -5,7 +5,7 @@ position: 02
 url: "https://editor.p5js.org/unicazurnfanpage/full/Ws7K-_3Tx"
 img:
 content_type: student
-color: "background-color:#bfbfbf"
+color: "#bfbfbf"
 ---
 
 Frankie Rose Winum

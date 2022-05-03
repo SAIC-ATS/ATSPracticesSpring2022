@@ -4,7 +4,7 @@ title: ""
 position: 14
 url: "https://editor.p5js.org/joohyun823/full/IbUQ9zKxI"
 content_type: student
-color: "background-color:#212121"
+color: "#212121"
 ---
 
 Joojoo Park
