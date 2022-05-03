@@ -1,0 +1,30 @@
+{
+  "name": "atp-s22",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup"
+  },
+  "dependencies": {
+    "@fortawesome/free-brands-svg-icons": "^6.1.1",
+    "@fortawesome/free-solid-svg-icons": "^6.1.1",
+    "@nuxt/content": "^1.15.1",
+    "@nuxtjs/fontawesome": "^1.1.2",
+    "core-js": "^3.19.3",
+    "gh-pages": "^3.2.3",
+    "nuxt": "^2.15.8",
+    "nuxt-content": "github:nuxt/content",
+    "vue": "^2.6.14",
+    "vue-server-renderer": "^2.6.14",
+    "vue-template-compiler": "^2.6.14",
+    "webpack": "^4.46.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^5.0.3",
+    "postcss": "^8.4.4"
+  }
+}
