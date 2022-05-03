@@ -1,11 +1,13 @@
 export default {
   target: "static",
-
+  router: {
+    base: "/ATSPracticesSpring2022/",
+  },
   content: {},
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: "atp-s22",
+    title: "ATSPracticesSpring2022",
     htmlAttrs: {
       lang: "en",
     },
