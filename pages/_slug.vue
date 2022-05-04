@@ -1,9 +1,9 @@
 <template>
-  <div>
-    <div class="flex" :style="doc.color">
+  <div class="w-full">
+    <div class="flex w-full" :style="doc.color">
       <iframe
         :src="doc.url"
-        class="h-screen w-screen"
+        class="h-screen w-full"
         style="margin-top: -60px; height: calc(100vh + 12rem)"
         id="iframe"
         frameborder="0"
