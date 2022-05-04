@@ -2,7 +2,7 @@
 name: Ayeong Lim
 title: ""
 position: 24
-url: ""
+url:
 content_type: student
 color: "rgb(255, 255, 255)"
 ---

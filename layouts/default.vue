@@ -64,7 +64,9 @@
                 </p>
               </NuxtLink>
             </div>
-            <div v-if="student.content_type == 'student'">
+            <div
+              v-if="student.content_type == 'student' && student.url != null"
+            >
               <NuxtLink :to="student.slug" class="sticky right-0">
                 <img class="filter sepia-on-hover" src="tab-b.png" />
                 <p
