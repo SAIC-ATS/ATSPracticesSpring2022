@@ -26,13 +26,8 @@ export default {
   },
   async asyncData({ $content, params }) {
     const doc = await $content(params.slug).fetch();
-    const students = await $content()
-      .only(["url", "color", "slug"])
-      .sortBy("position", "asc")
-      .fetch();
     return {
       doc,
-      students,
     };
   },
 };
