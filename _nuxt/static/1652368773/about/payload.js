@@ -1,0 +1,1 @@
+__NUXT_JSONP__("about", (function(a,b){return {data:[{doc:{slug:"about",name:a,title:a,position:0,url:b,content_type:"page",color:b,toc:[],body:{type:"root",children:[]},dir:"\u002F",path:"\u002Fabout",extension:".md",createdAt:"2022-05-12T15:11:46.616Z",updatedAt:"2022-05-12T15:11:46.617Z"}}],fetch:{},mutations:void 0}}("About","")));;
