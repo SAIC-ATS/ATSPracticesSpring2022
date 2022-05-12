@@ -6,5 +6,3 @@ url: ""
 content_type: page
 color: ""
 ---
-
-about page

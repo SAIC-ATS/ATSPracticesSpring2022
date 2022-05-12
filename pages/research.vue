@@ -1,7 +1,8 @@
 <template>
-  <div class="flex justify-between">
-    <h1 class="mx-auto mt-24">COMING SOON!</h1>
-    <nuxt-content :document="doc" />
+  <div>
+    <!-- <div class="m-24">
+      <img src="observations.png" class="" />
+    </div> -->
   </div>
 </template>
 

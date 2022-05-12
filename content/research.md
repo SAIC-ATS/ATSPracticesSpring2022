@@ -3,7 +3,7 @@ name: Research
 title: "Research"
 position: 01
 url: ""
-content_type: page
+content_type: skip
 color: "#FFFFFF"
 ---
 
