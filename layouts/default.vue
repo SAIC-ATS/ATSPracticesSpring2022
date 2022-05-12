@@ -46,7 +46,13 @@
           </div>
           <div v-for="student of students" :key="student.slug" class="w-48">
             <div v-if="student.content_type == 'page'" :style="student.color">
-              <NuxtLink :to="student.slug" class="sticky right-0">
+              <a
+                :href="
+                  'https://saic-ats.github.io/ATSPracticesSpring2022/' +
+                  student.slug
+                "
+                class="sticky right-0"
+              >
                 <img class="filter sepia-on-hover" src="tab-b.png" />
                 <p
                   class="
@@ -63,12 +69,18 @@
                 >
                   {{ student.name }}
                 </p>
-              </NuxtLink>
+              </a>
             </div>
             <div
               v-if="student.content_type == 'student' && student.url != null"
             >
-              <NuxtLink :to="student.slug" class="sticky right-0">
+              <a
+                :href="
+                  'https://saic-ats.github.io/ATSPracticesSpring2022/' +
+                  student.slug
+                "
+                class="sticky right-0"
+              >
                 <img class="filter sepia-on-hover" src="tab-b.png" />
                 <p
                   class="
@@ -85,7 +97,7 @@
                 >
                   {{ student.name }}
                 </p>
-              </NuxtLink>
+              </a>
             </div>
           </div>
 

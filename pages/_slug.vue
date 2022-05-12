@@ -7,8 +7,9 @@
         style="margin-top: -60px; height: calc(100vh + 12rem)"
         id="iframe"
         frameborder="0"
-        allow="camera https://editor.p5js.org; microphone https://editor.p5js.org"/>
-      ></iframe>
+        allow="camera https://editor.p5js.org; microphone https://editor.p5js.org"
+      >
+      </iframe>
     </div>
   </div>
 </template>
