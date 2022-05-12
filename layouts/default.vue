@@ -53,7 +53,8 @@
                     absolute
                     pointer-events-none
                     index-x-0
-                    top-4
+                    top-0
+                    md:top-4
                     w-52
                     uppercase
                     text-slate-200
@@ -74,7 +75,8 @@
                     absolute
                     pointer-events-none
                     index-x-0
-                    top-4
+                    top-0
+                    md:top-4
                     w-52
                     uppercase
                     text-slate-200
