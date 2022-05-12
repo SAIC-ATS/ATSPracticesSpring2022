@@ -1,12 +1,38 @@
-import theme from "./theme";
-
 export default {
   target: "static",
   router: {
     base: "/ATSPracticesSpring2022/",
   },
-  content: {},
-  watch: ["~/theme/**/*.js", "~/theme/**/*.vue"],
+  generate: {
+    routes: [
+      "/about",
+      "/Aidan",
+      "/Anushka",
+      "/Ayeong",
+      "/Briana",
+      "/Claire",
+      "/Frankie",
+      "/Hope",
+      "/Ivan",
+      "/Jay",
+      "/Jiarong",
+      "/Joojoo",
+      "/Jude",
+      "/Khushi",
+      "/Laen",
+      "/Lisa",
+      "/Loretto",
+      "/Oceana",
+      "/Orion",
+      "/research",
+      "/Riley",
+      "/Socks",
+      "/Su",
+      "/Vivian",
+      "/Xin",
+      "/Yajurvi",
+    ],
+  },
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
